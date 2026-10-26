@@ -96,7 +96,7 @@ Git · GitHub · Linux · Jupyter
 
 A web application for querying traffic and sensor data through natural language using an existing Qwen model, Ollama and ClickHouse. I developed the web application, backend, frontend and integration layer; I did not develop or train the model.
 
-**Source code:** private repository  
+**Source code:** private repository<br>
 **Case study:** [View AI Traffic Queries](https://pedrojesus32.github.io/#/projects/ai-traffic-queries)
 
 ### 02 — Sensor Data Compression
@@ -107,7 +107,7 @@ A web application for querying traffic and sensor data through natural language 
 
 A Python workflow for lossless traffic sensor data compression, decompression, integrity validation and data queries.
 
-**Source code:** not currently linked to this profile  
+**Source code:** not currently linked to this profile<br>
 **Case study:** [View Sensor Data Compression](https://pedrojesus32.github.io/#/projects/sensor-data-compression)
 
 ### 03 — Traffic Simulator
@@ -118,7 +118,7 @@ A Python workflow for lossless traffic sensor data compression, decompression, i
 
 A web-based traffic simulator for visualising vehicle movement, controlling simulations and monitoring traffic indicators through a responsive interface.
 
-**Source code:** private repository  
+**Source code:** private repository<br>
 **Case study:** [View Traffic Simulator](https://pedrojesus32.github.io/#/projects/traffic-simulator)
 
 ---
